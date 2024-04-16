@@ -1,0 +1,11 @@
+{
+  "name": "@walidmeguenni/npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "walid meguenni",
+  "license": "ISC"
+}
